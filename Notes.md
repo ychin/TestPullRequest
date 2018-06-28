@@ -66,6 +66,16 @@ Bitbucket
 
 Github is actually quite good on this, especially with the explicit review state and the ability to remember your last reviewed commit so as to only show you need diffs next time.
 
+## Search within files
+
+Github: Search works
+
+Gitlab: Search works (filename or content both fine)
+
+Bitbucket: No
+
+VSTS: Surprisingly, no.
+
 # General thoughts
 
 Surprised how Github actually kind of sucks and not that much better than Bitbucket.
