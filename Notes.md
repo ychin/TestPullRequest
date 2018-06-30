@@ -5,21 +5,30 @@ Below are comparisons of the 4 main Git repository hosts (Visual Studio Online, 
 ## Record pushes
 
 VSTS: Explicit feature
+
 Gitlab: Sort of hidden under "Activities"
+
 Github / Bitbucket: None
 
 ## Search by author in commits
+
 VSTS: Yes
+
 Gitlab: No
+
 Github: No
+
 Bitbucket: No
 
 ## Comparing revisions
 
 VSTS: Each file has a "History" and "Compare" tab to compare different revisions. History allows filtering by author/etc just like regular commits browsing. Neat.
+
 GitLab: Each file only "history". *But* it has a generic "Compare" page to compare any arbitrary commits so if you can still get file revision diffs, just more work and have to filter thorugh the diff for your file.
+
 Bitbucket: Nice per-file history that allows arbitrary commit diffing of the file.
-Github: Only per-file history… Lame
+
+Github: Only per-file history… Edit: Apparently you can use "/compare" in the URL and get a compare functionality between commits. It's just not exposed anywhere in the UI.
 
 ## Pull request - recognizing pushes
 
@@ -78,5 +87,6 @@ VSTS: Surprisingly, no.
 
 # General thoughts
 
-Surprised how Github actually kind of sucks and not that much better than Bitbucket.
-Gitlab comes out looking good with some neat features. In general I actually still prefer VSTS which is a lot more feature-rich.
+Surprised how Github is actually kind of not that feature-rich and not that much better than Bitbucket.
+
+Gitlab comes out looking good with some neat features. In general I actually still prefer **VSTS** which is a lot more feature-rich.
